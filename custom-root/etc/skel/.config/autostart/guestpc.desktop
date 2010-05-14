@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GuestPC
+Comment=GuestPC by Zimmerbuch.de
+Exec=/usr/local/guestpc/surfstation-login.sh
+Icon=preferences-desktop-remote-desktop
+Terminal=false
+Type=Application
+X-GNOME-Autostart-Phase=Applications
