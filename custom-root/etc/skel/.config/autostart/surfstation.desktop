@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Surfstation
+Comment=Surfstation by Zimmerbuch.de
+Exec=/usr/local/surfstation/surfstation-login.sh
+Icon=preferences-desktop-remote-desktop
+Terminal=false
+Type=Application
+X-GNOME-Autostart-Phase=Applications

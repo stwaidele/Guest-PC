@@ -1,0 +1,6 @@
+# Ignore the .tgz with the browser-settings
+*.tgz
+
+# Ignore automatic backups
+*~
+
